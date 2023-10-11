@@ -1,4 +1,4 @@
-# CS 623 DBMS PROJECT
+# CS 623 DBMS PROJECT - Geospatial Database Analysis using PostgreSQL and PostGIS 
 
 Creating a Geographic Information System (GIS) Analysis: A project that involves
 analyzing geographic data such as maps and spatial data. You will need a
