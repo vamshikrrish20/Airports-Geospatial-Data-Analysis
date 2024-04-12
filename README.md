@@ -1,4 +1,4 @@
-# Airport's Geospatial Data Analysis Using PostgreSQL and PostGIS - DBMS PROJECT
+# Airports Geospatial Data Analysis Using PostgreSQL and PostGIS - DBMS PROJECT
 
 ## Project Overview
 
